@@ -2,7 +2,7 @@ var cores = ["#FF0000", "#000000", "#C0C0C0","#808080", "#FFFFFF",  //vetor com 
 "#800000", "#800080", "#FF00FF", "#00FFFF", "#008080", "#0000FF",   
 "#000080", "#FFFF00", "#808000", "#008000", "#00FF00"]  
 
-var nome = ["red", "black", "silver", "gray", "white", "maroon",    //vetor com o nome delas
+var nome = ["red", "black", "silver", "gray", "white", "maroon",    //vetor com o nome de
 "purple", "fuchsia/magenta", "aqua/cian", "teal", "blue", "navi",  
 "yellow", "olive", "green", "lime"]
 
